@@ -1,0 +1,41 @@
+.hello{
+    color:#1f4068;
+    font-weight: 700;
+    font-size: 5rem;
+}
+.user{
+    border: 0px;
+    display: block;
+    font-weight: 400;
+    font-size: 1.5rem;
+    width: 25rem;
+    height: 3.4rem;
+    text-align: center;
+}
+.top{
+    border-bottom: 2px solid #c78a8a;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 3rem auto 0;
+}
+.bottom{
+    margin: 0 auto 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.content{
+    font-family: 'Comfortaa', cursive;
+    margin: 4% auto 0 ;
+    width: 40%;
+    padding: 10% 3%;
+    text-align: center;
+    border: 1px solid #cc4e4e ;
+    border-radius: 4rem;
+    background-color: #edf4f2;
+}
+
+body{
+    background-color: #e84a5f;
+}
