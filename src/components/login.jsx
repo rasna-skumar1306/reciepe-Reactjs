@@ -12,7 +12,7 @@ function Login() {
             <h1 className="hello">Hello {name} </h1>
             <input class="user top" type="text" placeholder="Enter your name" value={name} onChange={(e)=>{setName(e.target.value)}}/>
             <input class="user bottom" type="password" placeholder="Enter your password" />
-            <button class="btn btn-lg btn-success" type="submit" onSubmit={(e)=>{e.preventDefault()}} >Submit</button>
+            <button class="btn btn-lg btn-success" type="submit" onSubmit={(e)=>{e.preventDefault()}} >Login</button>
             <Register />
         </div>
         </div>);
